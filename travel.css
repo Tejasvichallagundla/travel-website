@@ -1,0 +1,21 @@
+.card{
+    border:2px solid rgb(0, 0, 0);
+    border-radius:10px ;
+    box-shadow: 5px 5px 5px 5px rgb(180, 178, 178);
+    max-width:250px;
+    padding:10px;
+    margin:10px;
+    text-align: center;
+    background-color:azure;
+}
+#card-cont{
+    display: flex;
+    flex-wrap:wrap;
+}
+#card-img{
+   width: 60%;
+}
+#currency{
+    font-size: 16px;
+
+}
