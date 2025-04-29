@@ -8,14 +8,14 @@
     text-align: center;
     background-color:azure;
 }
-#card-cont{
+.card-cont{
     display: flex;
     flex-wrap:wrap;
 }
-#card-img{
+.card-img{
    width: 60%;
 }
-#currency{
+.currency{
     font-size: 16px;
 
 }
